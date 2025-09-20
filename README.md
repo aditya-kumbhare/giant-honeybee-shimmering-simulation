@@ -16,4 +16,4 @@ To run the simulation, download the files into your desired folder, and navigate
 
 Run the command `javac Beehive.java` to recompile as needed, and use `java Beehive <size>` to run the simulation, with `<size>` replaced with the desired width within bounds.
 
-_Tested on Java 17. Compatibility with earlier versions not guaranteed._
+_Tested on Java 21. Compatibility with earlier versions not guaranteed._
